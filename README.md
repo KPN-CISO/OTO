@@ -1,2 +1,1 @@
-# OTO
-# OTO
+# Education, Training and Exercises
